@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SearchInvoke!</string>
+    <string name="app_name">SearchTest</string>
+    <string name="search_invoke">App/Search/Invoke Search</string>
+    <string name="msg_search">This activity shows a few different ways to invoke search, and inserts context-specific data for use by the search activity.</string>
+    <string name="search_sect_invocation">Ways to invoke search</string>
+    <string name="label_onsearchrequested">onSearchRequested()</string>
+    <string name="search_sect_options">Optional search parameters</string>
+    <string name="label_search_query_prefill">"Prefill query: "</string>
+    <string name="label_search_query_appdata">"App Data: "</string>
+    
+    <string name="search_query_results">App/Search/Query Search Results</string>
+    <string name="msg_search_results">This activity accepts query strings via the ACTION_SEARCH intent.  In a full implementation, you would use the query string to select results from your data source, and present a list of those results to the user.</string>
+    <string name="label_search_query">"Query String: "</string>
+    <string name="label_search_appdata">"Query App Data: "</string>
+    <string name="label_search_deliveredby">"Activity Method: "</string>
+
+    <string name="search_label">Search Demo</string>
+    <string name="search_hint">Search Demo Hint</string>
+</resources>

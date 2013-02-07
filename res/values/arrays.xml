@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string-array name="search_menuModes">
+        <item>Search Key</item>
+        <item>Menu Item</item>
+        <item>Type-To-Search</item>
+        <item>Disabled</item>
+    </string-array>
+</resources>
